@@ -1,19 +1,24 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://neelshxd.io)
 <h1 align="center">Hi 👋, I'm Neelesh Adhikari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/3AyY.gif">
+<img align="right"alt="coding" width="400" src="https://i.gifer.com/3AyY.gif">
 
 - 🌱 I’m currently learning **React Native**
+
 - 👨‍💻 All of my projects are available at [https://neeleshxd.github.io/PORTFOLIO/](https://neeleshxd.github.io/PORTFOLIO/)
+
 - 💬 Ask me about **React, DSA**
+
 - 📫 How to reach me **neelesh1112adhikari@gmail.com**
-- 📄 Know about my experiences [Here](https://docs.google.com/document/d/1-gQEhh_RiKQgpLcvAs7aH9685uTi-JCm/edit?usp=sharing&ouid=103313895805979092113&rtpof=true&sd=true)
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1-gQEhh_RiKQgpLcvAs7aH9685uTi-JCm/edit?usp=sharing&ouid=103313895805979092113&rtpof=true&sd=true](https://docs.google.com/document/d/1-gQEhh_RiKQgpLcvAs7aH9685uTi-JCm/edit?usp=sharing&ouid=103313895805979092113&rtpof=true&sd=true)
+
 - ⚡ Fun fact **Sleepy feeling All day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/neelesh-adhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neelesh adhikari" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/u/Neelesh_110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neelesh adhikari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/neelesh adhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neelesh adhikari" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/neelesh adhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neelesh adhikari" height="30" width="40" /></a>
 </p>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Neelesh_110)
