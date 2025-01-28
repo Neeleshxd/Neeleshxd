@@ -24,8 +24,7 @@
 <h3 align="left">LeetCode Stats & Heatmap:</h3>
 
 <p align="center">
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/Neelesh_110)  
-  ![Leetcode Heatmap](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+  ![Leetcode Heatmap](https://leetcard.jacoblin.cool/lapor?ext=heatmap&username=Neelesh_110)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
