@@ -20,8 +20,9 @@
 <h3 align="left">LeetCode Stats & Heatmap:</h3>
 
 <p align="center">
-  ![](https://leetcard.jacoblin.cool/Neelesh_110?ext=heatmap)
+  <img src="https://leetcard.jacoblin.cool/Neelesh_110?ext=heatmap" alt="LeetCode Heatmap">
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
