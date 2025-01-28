@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://neelshxd.io)
 <h1 align="center">Hi 👋, I'm Neelesh Adhikari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right"alt="coding" width="400" src="https://i.gifer.com/3AyY.gif">
+<img align="right" alt="coding" width="400" src="https://i.gifer.com/3AyY.gif">
 
 - 🌱 I’m currently learning **React Native**
 - 👨‍💻 All of my projects are available at [https://neeleshxd.github.io/PORTFOLIO/](https://neeleshxd.github.io/PORTFOLIO/)
@@ -15,6 +15,8 @@
 <a href="https://linkedin.com/in/neelesh-adhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neelesh adhikari" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/u/Neelesh_110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neelesh adhikari" height="30" width="40" /></a>
 </p>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Neelesh_110)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
