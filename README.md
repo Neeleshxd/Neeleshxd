@@ -1,18 +1,14 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://neelshxd.io)
+
 <h1 align="center">Hi 👋, I'm Neelesh Adhikari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/3AyY.gif">
 
 - 🌱 I’m currently learning **React Native**
-
 - 👨‍💻 All of my projects are available at [https://neeleshxd.github.io/PORTFOLIO/](https://neeleshxd.github.io/PORTFOLIO/)
-
 - 💬 Ask me about **React, DSA**
-
 - 📫 How to reach me **neelesh1112adhikari@gmail.com**
-
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1-gQEhh_RiKQgpLcvAs7aH9685uTi-JCm/edit?usp=sharing&ouid=103313895805979092113&rtpof=true&sd=true)
-
 - ⚡ Fun fact **Sleepy feeling All day**
 
 <h3 align="left">Connect with me:</h3>
@@ -24,7 +20,7 @@
 <h3 align="left">LeetCode Stats & Heatmap:</h3>
 
 <p align="center">
-  ![](https://leetcard.jacoblin.cool/Neelesh_10?ext=contest)
+  ![](https://leetcard.jacoblin.cool/Neelesh_110?ext=heatmap)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
